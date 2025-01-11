@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668226468961",
+    "project_id": "movieum46997",
+    "storage_bucket": "movieum46997.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668226468961:android:fe9617297543020b387e20",
+        "android_client_info": {
+          "package_name": "com.example.bitirmeprojesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxHPAXL1oUH2vQIsB7ctKP5C7Khn92Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
